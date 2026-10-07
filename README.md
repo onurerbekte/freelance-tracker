@@ -104,3 +104,7 @@ No backups or cross-device synchronization. Language, search, and filter reset o
 React state ve etkileşim rehberi / React state and interaction guide: https://react.dev/learn/adding-interactivity
 
 Vite resmi kurulum ve derleme rehberi / Official Vite setup and build guide: https://vite.dev/guide/
+
+Kurgusal demo proje / Fictional demo project.
+
+Pages: see PAGES.md / Pages yönergeleri: PAGES.md.

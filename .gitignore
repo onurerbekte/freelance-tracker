@@ -3,3 +3,11 @@ dist/
 *.log
 .DS_Store
 Thumbs.db
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+credentials*.json
+token*.json
