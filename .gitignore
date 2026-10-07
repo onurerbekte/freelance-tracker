@@ -11,3 +11,13 @@ Thumbs.db
 secrets/
 credentials*.json
 token*.json
+
+# Additional credential file names
+token.*
+tokens.*
+api_key.*
+apikey.*
+secrets.*
+credentials.*
+*.pfx
+*.p12
